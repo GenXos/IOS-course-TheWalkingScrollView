@@ -1,2 +1,2 @@
-# IOS-course-TheWalkingScrollView
+# TheWalkingScrollView
 A project utilizing the UIScrollView
